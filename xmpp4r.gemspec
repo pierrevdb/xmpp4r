@@ -233,7 +233,6 @@ Gem::Specification.new do |s|
  "tools/gen_requires.bash",
  "tools/xmpp4r-gemspec-test.rb",
  "xmpp4r.gemspec"]
-  s.full_name = "xmpp4r-0.5.7"
   s.has_rdoc = true
   s.homepage = "http://xmpp4r.github.io"
   s.name = "xmpp4r"
@@ -243,7 +242,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = ">= 1.8.7"
   s.required_rubygems_version = ">= 0"
   s.rubyforge_project = "xmpp4r"
-  s.rubygems_version = "2.4.1"
+  s.rubygems_version = "2.4.2"
   s.specification_version = 4
   s.summary = "XMPP/Jabber library for ruby"
   s.version = "0.5.7"
